@@ -2,6 +2,15 @@
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
+
+#Link del backend del sprint 2 (Autenticación - Django)
+https://proyecto-ciclo4-authapp.herokuapp.com/
+
+
+
+
+
+
 ### What is this repository for? ###
 
 * Quick summary
